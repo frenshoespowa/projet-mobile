@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_mission_statement_reader.xml.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\layout\\fragment_mission_statement_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_mission_statement_editor.xml.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\layout\\fragment_mission_statement_editor.xml"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mission_statement.xml.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\layout\\activity_mission_statement.xml"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_sign_in.xml.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\layout\\fragment_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\src\\main\\res\\layout\\activity_sign_in.xml"
+    }
+]

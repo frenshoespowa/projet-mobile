@@ -1,0 +1,4 @@
+#Sun Dec 31 17:23:30 CET 2017
+base.0=C\:\\Users\\frangui\\Desktop\\ESIEA\\Pojet mobile\\Android-ModelViewController-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
